@@ -1,5 +1,11 @@
 # Documented at https://www.as50156.net/network/communities
 50156:50156,Boxed IT route
+50156:1000,Received in Belgium
+50156:1001,Received in Belgium (bebru1)
+50156:1002,Received in Belgium (bebru2)
+50156:2000,Boxed IT Belgian route
+50156:2001,Boxed IT Belgian route (bebru1)
+50156:2002,Boxed IT Belgian route (bebru2)
 50156:3000,Transit route
 50156:3010,Unix-Solutions transit
 50156:3020,IPWorks transit
