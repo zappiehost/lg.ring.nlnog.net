@@ -1,0 +1,13 @@
+# Documented at https://noc.phyxia.net/communities
+35627:35627,Phyxia route
+35627:1031,Originated in Netherlands
+35627:1032,Originated in Belgium
+35627:2031,Customer route originated in Netherlands
+35627:2032,Customer route originated in Belgium
+35627:3000,Transit route
+35627:3010,Boxed IT transit
+35627:3020,Hop179 transit
+35627:4000,Peering route
+35627:4010,AMS-IX peer
+35627:4011,AMS-IX peer (direct)
+35627:4012,AMS-IX peer (route server)
