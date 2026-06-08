@@ -8,10 +8,19 @@
 50156:2002,Boxed IT Belgian route (bebru2)
 50156:3000,Transit route
 50156:3010,Unix-Solutions transit
-50156:3020,IPWorks transit
 50156:3030,BCH transit
 50156:3040,Hurricane Electric transit
 50156:4000,Peering route
 50156:4010,BelgiumIX peer
 50156:4011,BelgiumIX peer (direct)
 50156:4012,BelgiumIX peer (route server)
+50156:10000,Do not announce to transit
+50156:10010,Do not announce to Unix-Solutions transit
+50156:10030,Do not announce to BCH transit
+50156:10040,Do not announce to Hurrican Electric transit
+50156:11000,Do not announce to peering
+50156:11010,Do not announce to BelgiumIX peers
+50156:2001x,Prepend $0 times to Unix-Solutions transit
+50156:2003x,Prepend $0 times to BCH transit
+50156:2004x,Prepend $0 times to Hurricane Electric transit
+50156:2101x,Prepend $0 times to BelgiumIX peers
