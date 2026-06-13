@@ -4,10 +4,10 @@
 209097:0:1,Learned from RR1
 209097:0:2,Learned from RR2
 
-209097:1:1,Learned from core1-sbe1
-209097:2:1,Learned from core1-nxn1
-209097:3:1,Learned from core1-lyo1
-209097:4:1,Learned from core1-vnx1
+209097:1:1,Learned from edge1-sbe1
+209097:2:1,Learned from edge1-nxn1
+209097:3:1,Learned from edge1-lyo1
+209097:4:1,Learned from edge1-vnx1
 
 209097:0:64496,Learned from CYMRU UTRS
 209097:0:65332,Learned from CYMRU BOGONS
