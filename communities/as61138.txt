@@ -1,0 +1,60 @@
+# AS61138 communities - source: <your NOC URL or contact>
+# Informational Communities
+
+# Origin
+61138:10,Originated locally
+
+# Transit
+61138:1000,Learned from transit
+61138:2010,Learned from transit AS64073 (Vetta)
+61138:2030,Learned from transit AS45177 (Devoli)
+61138:2040,Learned from transit AS6939 (Hurricane Electric)
+61138:2060,Learned from transit AS174 (Cogent)
+
+# Internet Exchange
+61138:3910,Learned from AKL-IX
+61138:3911,Learned from AKL-IX peer
+61138:3912,Learned from AKL-IX route server
+61138:3920,Learned from EdgeIX (Auckland)
+61138:3921,Learned from EdgeIX (Auckland) peer
+61138:3922,Learned from EdgeIX (Auckland) route server
+
+# Downstreams
+61138:4000,Learned from downstream
+
+# PNI
+61138:5000,Learned from PNI
+
+# Action Communities
+
+61138:666,Blackhole
+
+61138:9021,Prepend AS61138 once to AS45177 (Devoli)
+61138:9022,Prepend AS61138 twice to AS45177 (Devoli)
+61138:9023,Prepend AS61138 3 times to AS45177 (Devoli)
+61138:9029,Do not announce to AS45177 (Devoli)
+
+61138:9031,Prepend AS61138 once to AS6939 (Hurricane Electric)
+61138:9032,Prepend AS61138 twice to AS6939 (Hurricane Electric)
+61138:9033,Prepend AS61138 3 times to AS6939 (Hurricane Electric)
+61138:9039,Do not announce to AS6939 (Hurricane Electric)
+
+61138:9041,Prepend AS61138 once to AS174 (Cogent)
+61138:9042,Prepend AS61138 twice to AS174 (Cogent)
+61138:9043,Prepend AS61138 3 times to AS174 (Cogent)
+61138:9049,Do not announce to AS174 (Cogent)
+
+61138:9051,Prepend AS61138 once to AS64073 (Vetta)
+61138:9052,Prepend AS61138 twice to AS64073 (Vetta)
+61138:9053,Prepend AS61138 3 times to AS64073 (Vetta)
+61138:9059,Do not announce to AS64073 (Vetta)
+
+61138:9061,Prepend AS61138 once to AKL-IX
+61138:9062,Prepend AS61138 twice to AKL-IX
+61138:9063,Prepend AS61138 3 times to AKL-IX
+61138:9069,Do not announce to AKL-IX
+
+61138:9071,Prepend AS61138 once to EdgeIX (Auckland)
+61138:9072,Prepend AS61138 twice to EdgeIX (Auckland)
+61138:9073,Prepend AS61138 3 times to EdgeIX (Auckland)
+61138:9079,Do not announce to EdgeIX (Auckland)
