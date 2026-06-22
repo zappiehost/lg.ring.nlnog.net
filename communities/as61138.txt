@@ -1,4 +1,4 @@
-# AS61138 communities - source: <your NOC URL or contact>
+# AS61138 communities - source: noc@zappiehost.com
 # Informational Communities
 
 # Origin
